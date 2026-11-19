@@ -143,3 +143,8 @@ Hindi_English_Translation_MLflow/
 │
 ├── evaluate.py
 ├── register_champion
+## 12. Project Completion
+
+The project successfully completed model evaluation, MLflow experiment tracking, Champion selection, model registration, and prediction on 10 new Hindi sentences.
+
+The final Champion model is NLLB-200 (facebook/nllb-200-distilled-600M).
