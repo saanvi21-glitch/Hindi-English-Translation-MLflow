@@ -1,0 +1,19 @@
+{
+    "winner": "NLLB-200",
+    "primary_metric": "BLEU",
+    "BLEU_margin": 1.0,
+    "BLEU_difference_NLLB_minus_OPUS": 24.457270169891416,
+    "chrF_difference_NLLB_minus_OPUS": 15.915004165877406,
+    "OPUS_MT": {
+        "BLEU": 44.57097860753649,
+        "chrF": 64.88964835246891,
+        "avg_latency_ms": 163.24639400467277,
+        "total_inference_s": 16.324639400467277
+    },
+    "NLLB_200": {
+        "BLEU": 69.0282487774279,
+        "chrF": 80.80465251834632,
+        "avg_latency_ms": 522.2967130038887,
+        "total_inference_s": 52.22967130038887
+    }
+}

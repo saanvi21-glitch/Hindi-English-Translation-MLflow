@@ -1,0 +1,21 @@
+
+# MLflow tracking files
+mlruns/
+mlflow.db
+mlartifacts/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary files
+*.log
+.DS_Store

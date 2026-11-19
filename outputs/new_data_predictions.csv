@@ -1,0 +1,11 @@
+﻿id,hindi,prediction_english,model_name,model_version,model_alias
+1,मेरा नाम राहुल है।,My name is Rahul.,facebook/nllb-200-distilled-600M,1,champion
+2,मुझे नई किताबें पढ़ना पसंद है।,I like to read new books.,facebook/nllb-200-distilled-600M,1,champion
+3,आज हम बाजार जाएंगे।,Today we will go to the market.,facebook/nllb-200-distilled-600M,1,champion
+4,मेरे घर के पास एक बड़ा पार्क है।,There is a large park near my house.,facebook/nllb-200-distilled-600M,1,champion
+5,भारत में कई भाषाएँ बोली जाती हैं।,There are many languages spoken in India.,facebook/nllb-200-distilled-600M,1,champion
+6,कृपया मुझे पानी दीजिए।,Please give me water.,facebook/nllb-200-distilled-600M,1,champion
+7,बच्चे मैदान में खेल रहे हैं।,Children are playing in the field.,facebook/nllb-200-distilled-600M,1,champion
+8,मैं हर दिन सुबह जल्दी उठता हूँ।,I get up early every morning.,facebook/nllb-200-distilled-600M,1,champion
+9,यह फिल्म बहुत दिलचस्प है।,This film is very interesting.,facebook/nllb-200-distilled-600M,1,champion
+10,कल हमारी परीक्षा है।,Tomorrow is our exam.,facebook/nllb-200-distilled-600M,1,champion

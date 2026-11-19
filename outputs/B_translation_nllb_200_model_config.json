@@ -1,0 +1,4 @@
+{
+    "model_id": "facebook/nllb-200-distilled-600M",
+    "model_type": "nllb"
+}

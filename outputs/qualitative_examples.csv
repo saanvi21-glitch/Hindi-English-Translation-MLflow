@@ -1,0 +1,7 @@
+﻿
+hindi,reference,opus_prediction,nllb_prediction,comment
+"मुझे आम पसंद हैं।","I like mangoes.","I like it normal.","I like common.","Both models failed to translate the meaning of mangoes correctly. Neither prediction matches the reference."
+"आज मौसम बहुत अच्छा है।","The weather is very nice today.","The weather is very nice today.","The weather is great today.","Both translations convey the correct meaning. OPUS-MT matches the reference wording more closely."
+"मुझे नई किताबें पढ़ना पसंद है।","I like reading new books.","I like reading new books.","I like to read new books.","Both translations are correct. OPUS-MT matches the reference wording exactly, while NLLB-200 uses an equivalent expression."
+"कृपया मुझे पानी दीजिए।","Please give me some water.","Give me water, please.","Please give me water.","Both translations are understandable. NLLB-200 preserves the polite request, while OPUS-MT changes the word order and omits 'some'."
+"हम कल बाजार जाएंगे।","We will go to the market tomorrow.","We'll go market tomorrow.","We will go to the market tomorrow.","NLLB-200 matches the reference closely. OPUS-MT omits 'the', making its translation slightly less natural."
