@@ -143,8 +143,7 @@ Hindi_English_Translation_MLflow/
 │
 ├── evaluate.py
 ├── register_champion
-##12. AI declaration:ChatGPT was used as an AI-assisted learning tool to provide guidance during the development of this project, particularly in writing, understanding, and debugging the Python code and terminal commands. The implementation and results were reviewed and tested by the student to ensure understanding of the project.
-## 13. Project Completion
+## 12. Project Completion
 
 The project successfully completed model evaluation, MLflow experiment tracking, Champion selection, model registration, and prediction on 10 new Hindi sentences.
 
@@ -160,3 +159,5 @@ The outputs folder contains:
 - Predictions on 10 new Hindi sentences.
 
 The screenshots folder contains evidence of MLflow experiment tracking, model registration, evaluation results, and new-data predictions.
+
+AI declaration:ChatGPT was used as an AI-assisted learning tool to provide guidance during the development of this project, particularly in writing, understanding, and debugging the Python code and terminal commands. The implementation and results were reviewed and tested by the student to ensure understanding of the project.
